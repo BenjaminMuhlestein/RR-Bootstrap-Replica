@@ -1,3 +1,5 @@
+import './TopBar';
+import './StoreListing'
 import './App.css';
 
 function App() {
